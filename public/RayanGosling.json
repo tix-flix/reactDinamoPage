@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "name": "Себастьян Уайлдер",
+        "movie": "Ла Ла Ленд",
+        "image": "https://i.pinimg.com/736x/e5/52/cc/e552cca4d3a8a5ce77d26a72f4bdca30.jpg",
+        "prof": "джазовый музыкант"
+    },
+    {
+        "id": 1,
+        "name": "K",
+        "movie": "Бегущий по лезвию 2049",
+        "image": "https://i.pinimg.com/736x/3e/ae/cd/3eaecdbafbb4612f2e333f78ce8fb314.jpg",
+        "prof": "Репликант-Детектив"   
+    },
+    {
+        "id": 2,
+        "name": "Холланд Марч",
+        "movie": "Славные парни",
+        "image": "https://www.suedkurier.de/storage/image/6/2/7/0/10780726_shift-1200x1200_1BOxkB_cjgX1w.webp",
+        "prof": "Частный Детектив"   
+    },
+    {
+        "id": 3,
+        "name": "Водитель",
+        "movie": "Драйв",
+        "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/77040acc-b867-4c47-a150-ab97b57b6e9d/1920x",
+        "prof": "каскадер и наемным водитель"   
+    },
+    {
+        "id": 4,
+        "name": "Кольт Сиверс",
+        "movie": "Каскадёры",
+        "image": "https://www.victoriajacket.com/wp-content/uploads/2023/11/Ryan-Gosling-The-Fall-Guy-2024-Colt-Seavers-Blue-Jumpsuit-1.jpg",
+        "prof": "Каскадер"   
+    },
+    {
+        "id": 5,
+        "name": "Нил Армстронг",
+        "movie": "Человек на Луне",
+        "image": "https://i.pinimg.com/736x/bc/c5/6e/bcc56e45b8c9160906fe31a9c7fdf6c7.jpg",
+        "prof": "астронавт"   
+    },
+    {
+        "id": 6,
+        "name": "Сьерра Шесть",
+        "movie": "Серый человек",
+        "image": "https://hollywoodlife.com/wp-content/uploads/2021/03/ryan-gosling-in-the-gray-man-ec-vertical.jpg",
+        "prof": "Наемный убийца и бывший агент ЦРУ"   
+    },
+    {
+        "id": 7,
+        "name": "Кен",
+        "movie": "Барби",
+        "image": "https://avatars.mds.yandex.net/i?id=5af2e4eba99b6b0566f1446445a32b68_l-11454708-images-thumbs&n=13",
+        "prof": "Кент"   
+    },
+    {
+        "id": 8,
+        "name": "Джерри Вутерс",
+        "movie": "Охотники на гангстеров",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDkwMzE2MzgxNl5BMl5BanBnXkFtZTcwMzU5MDU4OA@@._V1_FMjpg_UX1000_.jpg",
+        "prof": "Детектив"   
+    },
+    {
+        "id": 9,
+        "name": "Джулиан Томпсон",
+        "movie": "Только Бог простит",
+        "image": "https://hips.hearstapps.com/elleuk.cdnds.net/15/37/2048x2730/2048x2730-8c81bb1-29f9-11e6-bba5-8357a9cad924-assets-elleuk-com-gallery-11146-1375365003-only-god-forgives-jpg.jpg?resize=480:*",
+        "prof": "Владелец тайского боксерского зала"   
+    }
+]
