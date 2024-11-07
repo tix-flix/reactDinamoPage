@@ -1,8 +1,10 @@
 import React from 'react'
 
-function NavLogo({link, width, text, br}) {
+function NavLogo({link, width, text, br, add}) {
   return (
-    <img style={{width: width, borderRadius: br}} src={link} alt={text} />
+    <a href={add}>
+      <img style={{width: width, borderRadius: br}} src={link} alt={text} />
+    </a>
   )
 }
 

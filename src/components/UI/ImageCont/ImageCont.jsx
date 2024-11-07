@@ -1,7 +1,7 @@
-import React from 'react'
+import React, { Children } from 'react'
 import st from './ImageCont.module.css'
 
-function ImageCont({link, wid, hei, br}) {
+function ImageCont({link, wid, hei, br, Children}) {
     let styles = {
         backgroundImage: `url(${link})`,
         width: wid,
@@ -9,7 +9,7 @@ function ImageCont({link, wid, hei, br}) {
         borderRadius: br
     }
   return (
-    <div className={st.box} style={styles}></div>
+    <div className={st.box} style={styles}>{Children}</div>
   )
 }
 

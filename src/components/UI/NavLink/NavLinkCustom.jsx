@@ -1,10 +1,9 @@
 import React from 'react'
-import st from "./NavLinkCustom.module.css"
 import { NavLink } from 'react-router-dom'
 
-function NavLinkCustom({add, text}) {
+function NavLinkCustom({add, text, className, onClick}) {
   return (
-    <NavLink to={add} style={({isActive}) => ({color: isActive ? "black" : "white"}) } className={st.link}>{text}</NavLink>
+    <NavLink to={add} className={className} onClick={onClick}>{text}</NavLink>
   )
 }
 

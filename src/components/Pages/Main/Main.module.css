@@ -2,8 +2,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 35px;
-    gap: 25px;
+    gap: 35px;
+    padding-inline: 30px;
+    margin-block: 25px;
 }
 .cont2{
     width: 550px;
