@@ -10,6 +10,7 @@ import PageTwo from './components/Pages/Home/PageTwo'
 import PageThree from './components/Pages/Home/PageThree'
 import PageFour from './components/Pages/Home/PageFour'
 import PageFive from './components/Pages/Home/PageFive'
+import Personal from './components/Pages/Personal/Personal'
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route path='pageFive' element={<PageFive/>}/>       
         </Route>
         <Route path='/about' element={<About/>}/>
+        <Route path='/about/:myId' element={<Personal/>}/>
         <Route path='/*' element={<Else/>}/>
       </Routes>
     </Layout>

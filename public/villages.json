@@ -1,0 +1,76 @@
+{
+    "villages": [
+      {
+        "id": 0,
+        "name": "Коноха",
+        "description": "Деревня скрытого листа. Основана Хаширамой Сенджу.",
+        "image": "/Image/list.jpeg",
+        "population": 30000,
+        "populationcolor": "red"
+      },
+      {
+        "id": 1,
+        "name": "Суна",
+        "description": "Деревня скрытого песка. Знаменита техникой песка.",
+        "image": "/Image/pesok.webp",
+        "population": 15000
+      },
+      {
+        "id": 2,
+        "name": "Кири",
+        "description": "Деревня скрытого тумана. Имеет тайны убийства.",
+        "image": "/Image/tuman.webp",
+        "population": 20000
+      },
+      {
+        "id": 3,
+        "name": "Кумо",
+        "description": "Деревня скрытого облака. Известна своей силой.",
+        "image": "/Image/oblako.jpeg",
+        "population": 25000
+      },
+      {
+        "id": 4,
+        "name": "Ива",
+        "description": "Деревня скрытого камня. Одна из самых мощных.",
+        "image": "/Image/kamna.webp",
+        "population": 18000
+      },
+      {
+        "id": 5,
+        "name": "Амэ",
+        "description": "Деревня скрытого дождя. Знаменита суровыми условиями и скрытностью.",
+        "image": "/Image/dojd.jpg",
+        "population": 12000
+      },
+      {
+        "id": 6,
+        "name": "Таки",
+        "description": "Деревня скрытого водопада. Природа — её главная защита.",
+        "image": "/Image/vodopad.png",
+        "population": 8000
+      },
+      {
+        "id": 7,
+        "name": "Куса",
+        "description": "Деревня скрытой травы. Обладает уникальными техниками на основе растений.",
+        "image": "/Image/trava.webp",
+        "population": 10000
+      },
+      {
+        "id": 8,
+        "name": "Югакуре",
+        "description": "Деревня скрытых горячих источников. Миролюбивая и известна своим гостеприимством.",
+        "image": "/Image/goryachie_istochniki.webp",
+        "population": 7000
+      },
+      {
+        "id": 9,
+        "name": "Хагакуре",
+        "description": "Деревня скрытых полей. Мирная деревня, окружённая зеленью.",
+        "image": "/Image/pole.jpg",
+        "population": 9500
+      }
+    ]
+  }
+  

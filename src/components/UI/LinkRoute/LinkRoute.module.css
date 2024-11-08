@@ -1,0 +1,9 @@
+.link{
+    padding: 5px 10px;
+    background-color: rgb(251,228,7);
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-block: 10px;
+}

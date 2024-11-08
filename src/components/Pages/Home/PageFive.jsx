@@ -10,7 +10,6 @@ function PageFive() {
       .then((response) => response.json())
       .then((data) => {
         setDota(data.characters);
-        console.log(data)
       });
   }, []);
 

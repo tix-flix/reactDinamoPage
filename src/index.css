@@ -7,6 +7,9 @@
 a{
   text-decoration: none;
 }
+ol,ul,li{
+  list-style-type: none;
+}
 
 :root {
   color-scheme: dark;
